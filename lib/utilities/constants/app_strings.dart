@@ -320,6 +320,9 @@ const String EnglishUS = 'English (US)';
 const String DeutschDE = 'Deutsch (Deutschland)';
 const String ArabicSA = 'اَلْعَرَبِيَّةُ';
 const String Mandarin = '来 本 嗄';
+const String Spanish = 'español';
+const String Japanese = '日本';
+const String Hebrew = 'Hebrew (עִברִית)';
 
 //Notifications
 const String NotifyAbout = 'On mobile, notify me about...';
